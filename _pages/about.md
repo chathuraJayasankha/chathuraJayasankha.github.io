@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jayasankha's home on the web!"
+title: "Chathura Jayasankha Gamage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Chathura Jayasankha Gamage. Nice to have you here.
+Hello! Nice to have you here.
 
 About me
 ======
 I am a final year Biomedical and Electronics Engineering undergraduate at University of Moratuwa, Sri Lanka.
 
+<!--
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -46,3 +47,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--->
+
+
