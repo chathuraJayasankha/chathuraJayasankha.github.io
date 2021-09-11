@@ -12,7 +12,7 @@ Hello! Nice to have you here.
 
 About me
 ======
-I am a final year Biomedical and Electronics Engineering undergraduate at University of Moratuwa, Sri Lanka.
+My name is Uluwitike Gamage Chathura Jayasankha. Currently I am a final year Biomedical and Electronics Engineering undergraduate at University of Moratuwa, Sri Lanka. I studied in Richmond College, Galle and ranked 2nd among 33600 candidates in GCE Adavnced Level Examinations 2016 from Physical Science stream(Z-score of 2.9244). 
 
 <!--
 Getting started
