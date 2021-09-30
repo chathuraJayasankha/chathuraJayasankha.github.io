@@ -10,4 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-Contact me through +94 77 007 2136
+Whatsapp/Mobile - +94770072136
+
+Linkedin - www.linkedin.com/in/chathura1010
+
+Email - jayasankha1010@gmail.com
