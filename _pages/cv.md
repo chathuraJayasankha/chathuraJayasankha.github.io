@@ -16,29 +16,42 @@ To pursue a career in a research team that strives to invent novel technology wh
 Education
 ======
 * University of Moratuwa, Sri Lanka
-  * BSc Engineering (Hons) inElectronics and Telecommunication Engineering (Biomedical Engineering Specialization)
-  * Cumulative GPA - 4.04/4.20
+  * **BSc Engineering (Hons)** in Electronics and Telecommunication Engineering (Biomedical Engineering Specialization)
+  * Cumulative GPA - **4.04/4.20**
   * Jan 2018 - Present
 * Richmond College, Galle, Sri Lanka
   * **GCE Advanced Level Examinations 2016** in Physical Science Stream 
   * 4 A Distinctions for Pure Mathematics, Applied Mathematics, Physics and Chemistry
-  * Z-score - 2.9244
+  * Z-score - **2.9244**
   * Ranked 2nd among 33,608 candidates
   * **GCE Ordinary Level Examinations 2016**
   * 9 A distinctions for all 9 subjects
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* St. Theresa Primary School, Galle, Sri Lanka
+  * Grade 5 Examination - 185/200
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Engineering Internship (2021)
+  * VeroxLabs (Pvt) Ltd, Sri Lanka
+  * Duties included: Firmware Development, Embedded Systems Programming
+  * Supervisor: Mr. Harin De Silva (Managing Director)
+ 
+* Research Internship (2021)
+  * OIST - Okinawa Institute of Science and Technology, Japan
+  * Duties included: Two-photon Imagery Data processing
+  * Supervisor: Prof. Bernd Kuhn & Soumen Jana
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Internship (2020)
+  * NONINVASIVE SURGERY AND BIOPSY LABORATORY, Imperial College, London
+  * Duties included: Hardware Designing and FPGA Programming using Verilog
+  * Supervisor: Dr. James Choi (Principal Investigator)
+ 
+* Engineering Internship (2020)
+  * Infosys Ltd, Banglore
+  * Duties included: Machine Learning and Image Processing
+  * Supervisor: Mr. Ashish Vishwas Kaduskar
+
+
   
 Skills
 ======
