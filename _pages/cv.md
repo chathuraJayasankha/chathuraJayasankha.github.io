@@ -55,12 +55,32 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Arduino
+  * Matlab
+  * Verilog
+  * VHDL
+  * LaTeX 
+  * AVR
+* Software skills
+  * Altium
+  * OrCad
+  * Matlab-Simulink
+  * Multisim 
+  * Solidworks 
+  * MS Office 
+  * Quartus
+  * Modelsim
+* Business skills
+  * Team Work
+  * Good presentation and communication skills
+  * Leadership
+  * Time management
+
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
 
 Publications
 ======
@@ -80,6 +100,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
