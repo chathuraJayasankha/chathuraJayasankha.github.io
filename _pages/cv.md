@@ -9,10 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Career Objective
+======
+To pursue a career in a research team that strives to invent novel technology which will be beneficial to the human race and environment
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* University of Moratuwa, Sri Lanka
+  * BSc Engineering (Hons) inElectronics and Telecommunication Engineering (Biomedical Engineering Specialization)
+  * Cumulative GPA - 4.04/4.20
+  * Jan 2018 - Present
+* Richmond College, Galle, Sri Lanka
+  * **GCE Advanced Level Examinations 2016** in Physical Science Stream 
+  * 4 A Distinctions for Pure Mathematics, Applied Mathematics, Physics and Chemistry
+  * Z-score - 2.9244
+  * Ranked 2nd among 33,608 candidates
+  * **GCE Ordinary Level Examinations 2016**
+  * 9 A distinctions for all 9 subjects
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
