@@ -12,7 +12,8 @@ Hello! Nice to have you here.
 
 About me
 ======
-My name is Uluwitike Gamage Chathura Jayasankha. Currently I am a final year Biomedical and Electronics Engineering undergraduate at University of Moratuwa, Sri Lanka. I studied in Richmond College, Galle and ranked 2nd among 33600 candidates in GCE Adavnced Level Examinations 2016 from Physical Science stream(Z-score of 2.9244). 
+
+I am a PhD candidate in Artificial Intelligence Research Group at the University of Melbourne, where my research focuses on applying graph representation learning techniques to problems in computational genomics. Specifically, I work on disease gene prioritization using graph neural networks (GNNs), integrating information from protein-protein interaction networks, gene co-expression data, and ontology-based knowledge graphs. Before starting my PhD, I worked as a Senior Software Engineer at Yaala Labs, contributing to systems in the FinTech domains. I hold a bachelor's degree in Biomedical Engineering from University of Moratuwa, and I’m deeply interested in exploring how machine learning can uncover patterns in complex biological systems. Through my research and writing, I hope to bridge the gap between algorithmic innovation and biomedical discovery.
 
 <!--
 Getting started
