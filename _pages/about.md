@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Nice to have you here.
+Hello there! Nice to have you here.
 
 About me
 ======
