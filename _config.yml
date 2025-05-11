@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chathura Jayasankha Gamage"
   avatar           : "jayasankha.jpeg"
-  bio              : "Final year Biomedical and Electronics Engineering Undergraduate"
-  location         : "Sri Lanka"
-  employer         :
+  bio              : "Graduate Researcher at AI, Optimization and Pattern Recognition Research Group, University of Melbourne"
+  location         : "Melbourne, VIC"
+  employer         : "University of Melbourne"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.au/citations?user=FellNFwAAAAJ&hl=en&oi=ao"
   email            : "jayasankha1010@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
