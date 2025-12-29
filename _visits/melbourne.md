@@ -1,10 +1,10 @@
 ---
 title: "My New Home: Melbourne"
-excerpt: "Living and researching in Melbourne while pursuing my PhD at the University of Melbourne. The city skyline from the university is one of my favorite views.<br/><img src='/images/melbourne_city.jpeg' width='300' alt='Chathura Jayasankha at the University of Melbourne with the city skyline background'>"
+excerpt: "Living and researching in Melbourne while pursuing my PhD at the University of Melbourne. The city skyline from the university is one of my favorite views.<br/><img src='/images/melbourne.jpeg' width='300' alt='Chathura Jayasankha at the University of Melbourne with the city skyline background'>"
 collection: visits
 ---
 
-![Chathura Jayasankha at the University of Melbourne](/images/melbourne_city.jpeg)
+![Chathura Jayasankha at the University of Melbourne](/images/melbourne.jpeg)
 *A view from the University of Melbourne with the iconic city skyline in the background.*
 
 I moved to Melbourne in October 2024 to start my PhD journey, and it has quickly become one of my favorite places in the world. Being based at the **University of Melbourne** means I get to work in a world-class research environment right on the edge of a vibrant, busy city.
