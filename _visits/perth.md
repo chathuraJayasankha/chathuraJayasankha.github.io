@@ -1,7 +1,18 @@
 ---
-title: "Visit to Russia"
-excerpt: "Short description of visits item number 1<br/><img src='/images/500x300.png'>"
+title: "Research & Exploration in Perth"
+excerpt: "From presenting my PhD research at the ESA Meeting to meeting quokkas on Rottnest Island and visiting the Perth Mint. Perth was a perfect mix of science and discovery.<br/><img src='/images/perth.jpeg' width='300' alt='Chathura Jayasankha in Perth, Western Australia'>"
 collection: visits
 ---
 
-This is an item in your visits. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![Chathura Jayasankha at the ESA Conference in Perth](/images/perth.jpeg)
+*Presenting my work on gene prioritization at the Epilepsy Society of Australia’s (ESA) 39th Annual Scientific Meeting.*
+
+In November 2025, I traveled to Perth to present my PhD research. It was a major milestone for me, as I shared my explainable gene prioritization tool with a community of clinical experts. 
+
+Beyond the conference, I had some unforgettable experiences exploring Western Australia:
+
+* **Rottnest Island & Quokkas:** I took the ferry to Rottnest Island and spent the day cycling around the beautiful beaches. The highlight was definitely meeting the **quokkas**—they really are as friendly and photogenic as everyone says!
+* **The Perth Mint:** I visited the historic Perth Mint, where I watched a traditional gold pour and learned about Australia’s gold-mining history. Seeing the world’s largest gold coin was incredible.
+* **Kings Park:** I also spent some time taking in the views of the Swan River from the botanic gardens.
+
+Perth was the perfect combination of professional growth and an amazing travel experience.

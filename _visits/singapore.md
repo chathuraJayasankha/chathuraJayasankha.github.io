@@ -1,6 +1,6 @@
 ---
 title: "Visit to Singapore"
-excerpt: "A peek into the future with high-tech infrastructure and amazing green spaces. A huge inspiration for my work in Fintech.<br/><img src='/images/singapore.jpeg' alt='Chathura Jayasankha visiting the smart city hub in Singapore'>"
+excerpt: "A peek into the future with high-tech infrastructure and amazing green spaces. A huge inspiration for my work in Fintech.<br/><img src='/images/singapore.jpeg' width='300' alt='Chathura Jayasankha visiting the smart city hub in Singapore'>"
 collection: visits
 ---
 
