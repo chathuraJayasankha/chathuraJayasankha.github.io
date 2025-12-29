@@ -25,7 +25,9 @@ I am a PhD candidate in Artificial Intelligence Research Group at the University
 * **Nov 2025:** Had the privilege of presenting our research at the **Epilepsy Society of Australia’s (ESA) 39th Annual Scientific Meeting** in Perth. It was an inspiring experience engaging with clinicians and researchers to discuss how AI can drive real-world clinical decisions in epilepsy care.
 * **Oct 2025:** Successfully presented my PhD Confirmation Seminar at the University of Melbourne.
 * **Oct 2024:** Started my PhD journey at the University of Melbourne under the supervision of Prof. Saman Halgamuge.
+* **Jul 2024:** Awarded the prestigious **Melbourne Research Scholarship** to support my doctoral research at the University of Melbourne.
 * **Dec 2023:** Presented two papers at **IEEE ICIIS 2023** on fNIRS and EEG signal processing.
+* **Jul 2022:** Graduated from the **University of Moratuwa** with **First Class Honours** in BSc Eng (Hons) in Biomedical Engineering (Ranked in the top 5% of the batch).
 
 <!--
 Getting started
