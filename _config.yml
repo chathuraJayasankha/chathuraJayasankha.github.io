@@ -184,7 +184,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  visits:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _visits
   - scope:
       path: ""
-      type: portfolio
+      type: visits
     values:
       layout: single
       author_profile: true
