@@ -20,11 +20,10 @@ I am a PhD candidate in Artificial Intelligence Research Group at the University
 * **Neuroscience:** EEG/fNIRS signal processing and brain-computer interfaces.
 * **Machine Learning:** Deep learning, explainable AI, and pattern recognition.
 
-### News
 
 ### News
 * **Nov 2025:** Had the privilege of presenting our research at the **Epilepsy Society of Australia’s (ESA) 39th Annual Scientific Meeting** in Perth. It was an inspiring experience engaging with clinicians and researchers to discuss how AI can drive real-world clinical decisions in epilepsy care.
-* **Oct 2025:** Officially **confirmed my PhD candidature** at the University of Melbourne!
+* **Oct 2025:** Successfully presented my PhD Confirmation Seminar at the University of Melbourne.
 * **Oct 2024:** Started my PhD journey at the University of Melbourne under the supervision of Prof. Saman Halgamuge.
 * **Dec 2023:** Presented two papers at **IEEE ICIIS 2023** on fNIRS and EEG signal processing.
 

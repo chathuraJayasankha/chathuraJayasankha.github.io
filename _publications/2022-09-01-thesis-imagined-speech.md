@@ -1,5 +1,5 @@
 ---
-title: "Imagined Speech Decoder - Graduation Project Report"
+title: "Imagined Speech Decoder - Thesis"
 collection: publications
 permalink: /publication/2022-09-01-thesis-imagined-speech
 date: 2022-09-01
