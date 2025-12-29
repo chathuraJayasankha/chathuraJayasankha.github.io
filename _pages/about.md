@@ -15,6 +15,19 @@ About me
 
 I am a PhD candidate in Artificial Intelligence Research Group at the University of Melbourne, where my research focuses on applying graph representation learning techniques to problems in computational genomics. Specifically, I work on disease gene prioritization using graph neural networks (GNNs), integrating information from protein-protein interaction networks, gene co-expression data, and ontology-based knowledge graphs. Before starting my PhD, I worked as a Senior Software Engineer at Yaala Labs, contributing to systems in the FinTech domains. I hold a bachelor's degree in Biomedical Engineering from University of Moratuwa, and I’m deeply interested in exploring how machine learning can uncover patterns in complex biological systems. Through my research and writing, I hope to bridge the gap between algorithmic innovation and biomedical discovery.
 
+### Research Interests
+* **Genomics:** Disease gene prioritization and multi-omics integration.
+* **Neuroscience:** EEG/fNIRS signal processing and brain-computer interfaces.
+* **Machine Learning:** Deep learning, explainable AI, and pattern recognition.
+
+### News
+
+### News
+* **Nov 2025:** Had the privilege of presenting our research at the **Epilepsy Society of Australia’s (ESA) 39th Annual Scientific Meeting** in Perth. It was an inspiring experience engaging with clinicians and researchers to discuss how AI can drive real-world clinical decisions in epilepsy care.
+* **Oct 2025:** Officially **confirmed my PhD candidature** at the University of Melbourne!
+* **Oct 2024:** Started my PhD journey at the University of Melbourne under the supervision of Prof. Saman Halgamuge.
+* **Dec 2023:** Presented two papers at **IEEE ICIIS 2023** on fNIRS and EEG signal processing.
+
 <!--
 Getting started
 ======

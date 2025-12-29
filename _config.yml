@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Blog"
+title                    : "Chathura Jayasankha Gamage"
 title_separator          : "-"
 name                     : &name "Chathura Jayasankha Gamage"
-description              : &description "Graduate Researcher at University of Melbourne"
+description              : &description "Graduate Researcher at University of Melbourne | AI for Healthcare"
 url                      : https://chathurajayasankha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chathurajayasankha/chathurajayasankha.github.io"
