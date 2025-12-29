@@ -4,8 +4,8 @@ excerpt: "From presenting my PhD research at the ESA Meeting to meeting quokkas 
 collection: visits
 ---
 
-![Chathura Jayasankha at the ESA Conference in Perth](/images/perth.jpeg)
-*Presenting my work on gene prioritization at the Epilepsy Society of Australia’s (ESA) 39th Annual Scientific Meeting.*
+![Chathura Jayasankha in Perth](/images/perth.jpeg)
+*While visiting Perth Mint*
 
 In November 2025, I traveled to Perth to present my PhD research. It was a major milestone for me, as I shared my explainable gene prioritization tool with a community of clinical experts. 
 

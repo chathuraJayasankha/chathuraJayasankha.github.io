@@ -22,7 +22,6 @@ I am a PhD candidate in Artificial Intelligence Research Group at the University
 
 
 ### News
-### News
 * **Nov 2025:** Presented research at the **Epilepsy Society of Australia’s (ESA) 39th Annual Scientific Meeting** in Perth.
 * **Oct 2025:** Officially **confirmed my PhD candidature** at the University of Melbourne!
 * **Jul 2025:** Started a part-time position as a **Research Assistant** at the University of Melbourne.
