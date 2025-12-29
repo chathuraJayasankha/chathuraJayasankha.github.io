@@ -31,6 +31,7 @@ I am a PhD candidate in Artificial Intelligence Research Group at the University
 * **Dec 2023:** Presented two papers on fNIRS and EEG signal processing at **IEEE ICIIS 2023**.
 * **Jul 2022:** Graduated from the **University of Moratuwa** with **First Class Honours** in BSc Eng (Hons) in Biomedical Engineering (Ranked in the top 5% of the batch).
 * **May 2022:** Joined **Yaala Labs** as a Software Engineer.
+
 <!--
 Getting started
 ======
