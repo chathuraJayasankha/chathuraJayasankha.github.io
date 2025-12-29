@@ -1,6 +1,6 @@
 ---
 title: "Presidential Recognition"
-excerpt: "In 2017, I was invited to meet the President of Sri Lanka, Maithripala Sirisena, after ranking 2nd in the Island for the Advanced Level examinations. It was a proud moment for my family and school.<br/><img src='/images/president.jpg' width='500' alt='Chathura Jayasankha meeting President Maithripala Sirisena of Sri Lanka'>"
+excerpt: "In 2017, I was invited to meet the President of Sri Lanka, Maithripala Sirisena, after ranking 2nd in the Island for the Advanced Level examinations. It was a proud moment for my family and school.<br/><img src='/images/president.jpg' width='300' alt='Chathura Jayasankha meeting President Maithripala Sirisena of Sri Lanka'>"
 collection: visits
 ---
 
