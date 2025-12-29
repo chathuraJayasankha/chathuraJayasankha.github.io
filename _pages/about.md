@@ -22,15 +22,19 @@ I am a PhD candidate in Artificial Intelligence Research Group at the University
 
 
 ### News
-* **Nov 2025:** Had the privilege of presenting our research at the **Epilepsy Society of Australia’s (ESA) 39th Annual Scientific Meeting** in Perth. It was an inspiring experience engaging with clinicians and researchers to discuss how AI can drive real-world clinical decisions in epilepsy care.
-* **Oct 2025:** Successfully presented my PhD Confirmation Seminar at the University of Melbourne.
-* **Jul 2025:** Started a part-time position as a **Research Assistant** at the University of Melbourne, contributing to AI research.
-* **Oct 2024:** Started my PhD journey at the University of Melbourne under the supervision of Prof. Saman Halgamuge.
-* **Jul 2024:** Awarded the prestigious **Melbourne Research Scholarship** to support my doctoral research at the University of Melbourne.
-* **Mar 2024:** Promoted to **Senior Software Engineer** at Yaala Labs, focusing on backend development for Fintech solutions.
-* **Dec 2023:** Presented two papers on fNIRS and EEG signal processing at **IEEE ICIIS 2023**.
-* **Jul 2022:** Graduated from the **University of Moratuwa** with **First Class Honours** in BSc Eng (Hons) in Biomedical Engineering (Ranked in the top 5% of the batch).
-* **May 2022:** Joined **Yaala Labs** as a Software Engineer.
+### News
+* **Nov 2025:** Presented research at the **Epilepsy Society of Australia’s (ESA) 39th Annual Scientific Meeting** in Perth.
+* **Oct 2025:** Officially **confirmed my PhD candidature** at the University of Melbourne!
+* **Jul 2025:** Started a part-time position as a **Research Assistant** at the University of Melbourne.
+* **Oct 2024:** Commenced PhD research at the University of Melbourne within the AI, Optimization and Pattern Recognition Group.
+* **Jul 2024:** Awarded the **Melbourne Research Scholarship** for doctoral studies.
+* **Mar 2024:** Promoted to **Senior Software Engineer** at Yaala Labs.
+* **Dec 2023:** Presented two papers at **IEEE ICIIS 2023** on fNIRS and EEG signal processing.
+* **Jul 2022:** Graduated from the **University of Moratuwa** with **First Class Honours** in Biomedical Engineering.
+* **Nov 2019:** Won **First Place** in the 1st International Electricity Market Business Simulation Competition in **Shanghai, China**.
+* **Jul 2017:** Represented Sri Lanka at the **International Physics Olympiad (IPhO) in Indonesia**.
+* **May 2017:** Represented Sri Lanka at the **Asian Physics Olympiad (APhO) in Russia**.
+* **Dec 2016:** Ranked **2nd in the Island** (out of 33,000+ candidates) in the G.C.E. Advanced Level Examination (Physical Science Stream).
 
 <!--
 Getting started
