@@ -1,6 +1,6 @@
 ---
 title: "Olympiad in Russia"
-excerpt: "A trip to one of the coldest regions on Earth for the Asian Physics Olympiad. A true test of resilience!<br/><img src='/images/russia.jpeg' alt='Chathura Jayasankha at the Asian Physics Olympiad in Yakutsk, Russia'>"
+excerpt: "A trip to one of the coldest regions on Earth for the Asian Physics Olympiad. A true test of resilience!<br/><img src='/images/yakutsk.jpeg' alt='Chathura Jayasankha at the Asian Physics Olympiad in Yakutsk, Russia'>"
 collection: visits
 ---
 

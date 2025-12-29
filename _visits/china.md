@@ -1,6 +1,7 @@
 ---
 title: "Winning in Shanghai"
-excerpt: "In 2019, I went to Shanghai for an international business competition and won first place!<br/><img src='/images/shanghai.jpeg' alt='Chathura Jayasankha winning 1st place in a competition in Shanghai, China'>"
+excerpt: "In 2019, I went to Shanghai for a competition and won first place!<br/><img src='/images/shanghai.jpeg' width='200' alt='Chathura Jayasankha winning 1st place in Shanghai, China'>"
+collection: visits
 collection: visits
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Olympiad in Indonesia"
-excerpt: "Representing Sri Lanka at the International Physics Olympiad. A mix of tough physics and awesome indonesian food.<br/><img src='/images/indonesia.jpeg' alt='Chathura Jayasankha at the International Physics Olympiad in Indonesia'>"
+excerpt: "Representing Sri Lanka at the International Physics Olympiad. A mix of tough physics and awesome indonesian food.<br/><img src='/images/borobudur.jpeg' alt='Chathura Jayasankha at the International Physics Olympiad in Indonesia'>"
 collection: visits
 ---
 
