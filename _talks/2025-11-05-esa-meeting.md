@@ -13,3 +13,6 @@ excerpt: "Presenting research on explainable gene prioritization tools at the ES
 *Presenting our work on explainable AI for gene prioritization at the 39th ESA Annual Scientific Meeting.*
 
 I presented our group's work on explainable gene prioritization tools. This three-day meeting (Nov 5-7) focused on bridging the gap between world-class science and clinical outcomes. I received valuable feedback from clinicians on how our AI models can better support clinical decision-making.
+
+![Chathura Jayasankha at ESA 2025 in Perth](/images/esawa.jpeg)
+*Just before the ESA WA conference starts*
